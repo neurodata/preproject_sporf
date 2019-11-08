@@ -7,9 +7,12 @@ DISCLAMER:  This will increase the size of your data.
 
 Run
 
+First, make virtualenv and activate
+
 ```
 cd sporf_transform
-make
+pip install sklearn
+pip install -e .
 ```
 
 ## To Use:
